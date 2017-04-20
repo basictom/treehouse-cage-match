@@ -1,0 +1,17 @@
+{
+  "name": "lib",
+  "homepage": "https://github.com/basictom/treehouse-cage-match",
+  "authors": [
+    "Thomas Fitzgerald <tpfitz42@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
